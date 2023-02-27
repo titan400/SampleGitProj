@@ -1,3 +1,3 @@
 # SampleGitProj
-## Sampple Spring
+## Sample Spring
 ### Spring Boot
